@@ -1,11 +1,6 @@
-import { Button } from "../components/ui/Button";
-import { Card } from "../components/ui/Card";
+import { Button } from "../components/ui/button";
+import { Card } from "../components/ui/card";
 import { ArrowRight, ArrowLeft } from "lucide-react";
-import solarHouse from "../assets/solar-house-B0BKUOuh.jpg";
-import commercialSolar from "../assets/commercial-solar-DgfLP2aU.jpg";
-import windSolar from "../assets/wind-solar-Dwp4mxFn.jpg";
-import solarWorker from "../assets/solar-worker-DQrBRQhu.jpg";
-import img from "../assets/hero-background.jpg";
 
 const Projects = () => {
   return (

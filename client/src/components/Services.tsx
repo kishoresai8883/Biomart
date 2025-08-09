@@ -1,11 +1,8 @@
-import { Button } from "../components/ui/Button";
-import { Card } from "../components/ui/Card";
+import { Button } from "../components/ui/button";
+import { Card } from "../components/ui/card";
 import { ArrowRight, Monitor, Leaf, Battery } from "lucide-react";
 import Bricks from "../assets/Bricks.jpg";
 import Bag from "../assets/JuteBag.jpg";
-import solarWorker from "../assets/solar-worker-DQrBRQhu.jpg";
-import windSolar from "../assets/wind-solar-Dwp4mxFn.jpg";
-import img from "../assets/hero-background.jpg"
 
 const Services = () => {
   return (

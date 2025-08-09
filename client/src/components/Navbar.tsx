@@ -1,6 +1,5 @@
-import React, { useEffect, useState } from 'react';
-import { Button } from "../components/ui/Button";
-import { Leaf } from "lucide-react";
+import { useEffect, useState } from 'react';
+import { Button } from "../components/ui/button";
 import { NavLink } from 'react-router-dom'
 import Logo from '../assets/BiomartLogo.png';
 
