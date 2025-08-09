@@ -25,7 +25,7 @@ const Projects = () => {
         <div className="grid md:grid-cols-3 gap-6 mb-8">
           <Card className="group overflow-hidden relative">
             <img 
-              src={img} 
+              src="https://tse1.mm.bing.net/th/id/OIP.5wQ1T1i11TRuYiA6XhCg4AHaEK?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3" 
               alt="SunGlow Power EcoSun Sector" 
               className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
             />
@@ -43,7 +43,7 @@ const Projects = () => {
           
           <Card className="group overflow-hidden relative">
             <img 
-              src={img} 
+              src="https://www.menhealthdomain.com/wp-content/uploads/2025/08/Indian-Study-Advocates-Linking-Air-Quality-Index-to-Health-Risks.webp"
               alt="SolarEra Solutions Sol-Eco" 
               className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
             />
@@ -61,7 +61,7 @@ const Projects = () => {
           
           <Card className="group overflow-hidden relative">
             <img 
-              src={img} 
+              src="https://th.bing.com/th/id/R.4664400c4a32d0794d2e2c7790838167?rik=76nB1WPFKVwrFA&riu=http%3a%2f%2fkatiecouric.com%2fwp-content%2fuploads%2f2023%2f01%2fmicroplastics-getty.jpg&ehk=iRUTaqOGNTrtequeVmpv9tEdaNIDYsXfc75niHsRsfw%3d&risl=&pid=ImgRaw&r=0"
               alt="Commercial Solar Education" 
               className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
             />
@@ -79,7 +79,7 @@ const Projects = () => {
           
           <Card className="group overflow-hidden relative">
             <img 
-              src={img} 
+              src="https://www.ajinomoto.com.my/sites/default/files/inline-images/annual-emissions-of-co2.jpg"
               alt="Community Solar Solutions" 
               className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
             />
@@ -97,7 +97,7 @@ const Projects = () => {
 
           <Card className="group overflow-hidden relative">
             <img 
-              src={img} 
+              src="https://tse2.mm.bing.net/th/id/OIP.0hVFUQFzxCn_qvhgm7BVLwHaE8?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3"
               alt="Community Solar Solutions" 
               className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
             />
@@ -115,7 +115,7 @@ const Projects = () => {
 
           <Card className="group overflow-hidden relative">
             <img 
-              src={img} 
+              src="https://www.recyclingbristol.com/wp-content/uploads/iStock-1331030753-1200x798.jpg"
               alt="Community Solar Solutions" 
               className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
             />

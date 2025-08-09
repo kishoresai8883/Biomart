@@ -62,7 +62,7 @@ const About = () => {
         
         <div className="text-center mt-12">
           <Button variant="default" size="lg">
-            Discover Our Services <ArrowRight className="ml-2" />
+            Learn More About Us <ArrowRight className="ml-2" />
           </Button>
         </div>
       </div>

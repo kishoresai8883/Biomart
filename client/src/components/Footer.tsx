@@ -30,10 +30,12 @@ const Footer = () => {
           <div>
             <h4 className="font-bold mb-4">Services</h4>
             <ul className="space-y-2 text-white/80">
-              <li><a href="#" className="hover:text-primary transition-colors">Sustainable Energy</a></li>
-              <li><a href="#" className="hover:text-primary transition-colors">Battery Storage</a></li>
-              <li><a href="#" className="hover:text-primary transition-colors">Recycling</a></li>
-              <li><a href="#" className="hover:text-primary transition-colors">Waste Management</a></li>
+              <li><a href="#" className="hover:text-primary transition-colors">Jute Bags</a></li>
+              <li><a href="#" className="hover:text-primary transition-colors">Orangutan Bricks</a></li>
+              <li><a href="#" className="hover:text-primary transition-colors">E-Waste Management</a></li>
+              <li><a href="#" className="hover:text-primary transition-colors">Solid Waste Management</a></li>
+              <li><a href="#" className="hover:text-primary transition-colors">Garbage & Trash Analysis</a></li>
+              <li><a href="#" className="hover:text-primary transition-colors">Material Recovery Facility Management</a></li>
             </ul>
           </div>
           

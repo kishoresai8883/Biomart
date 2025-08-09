@@ -82,7 +82,7 @@ const FAQ = () => {
               <div className="flex gap-4 max-w-md mx-auto">
                 <input 
                   placeholder="Enter your email address" 
-                  className="bg-white/10 border-white/20 text-white placeholder:text-white/60"
+                  className="bg-white/10 border-white/20 rounded-lg px-4 text-white placeholder:text-white/60"
                 />
                 <Button variant="hero" size="lg">
                   Subscribe now <ArrowRight className="ml-2" />
